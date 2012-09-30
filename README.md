@@ -4,6 +4,9 @@ This is an Alfred extension for using the Pastefire service to send text to your
 requires Mac OS X and the Alfred launcher application.  You'll also need to have purchased
 the Alfred Powerpack to enable the use of extensions.
 
+You'll need to install both [Alfred](http://www.alfredapp.com) and the (non-free) [Powerpack](http://www.alfredapp.com/powerpack/)
+before installing this extension.
+
 # Usage
 
 There are two ways to invoke it.  First, you can just invoke the keyword "pastefire" from
